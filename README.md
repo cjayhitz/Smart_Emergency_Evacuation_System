@@ -3,6 +3,7 @@
 1. Veytri
 2. Naqib
 
+### Project Description:
 This project implements a Smart Emergency Evacuation System using an ESP32 microcontroller, sensors, and actuators. 
 The system monitors environmental conditions using a DHT11 temperature/humidity sensor and an MQ2 gas sensor. 
 It publishes telemetry data to the V-One IoT Cloud for real-time monitoring and triggers emergency actions when thresholds are exceeded.
