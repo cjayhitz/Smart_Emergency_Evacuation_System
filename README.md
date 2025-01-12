@@ -1,7 +1,7 @@
 # Smart Emergency Evacuation System
 ## Contributors:
-## 1. Veytri
-## 2. Naqib
+1. Veytri
+2. Naqib
 
 This project implements a Smart Emergency Evacuation System using an ESP32 microcontroller, sensors, and actuators. 
 The system monitors environmental conditions using a DHT11 temperature/humidity sensor and an MQ2 gas sensor. 
